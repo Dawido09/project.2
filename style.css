@@ -1,28 +1,28 @@
-body{
-	background-color: #CCFFCC;
+body {
+	background-color: #ccffcc;
 }
-.kontener{
+.kontener {
 	width: 90%;
-	height:90%;
+	height: 90%;
 	margin: auto;
 }
-header{
-	background-color: #66CC99;
+header {
+	background-color: #66cc99;
 	color: white;
-	font-size: 30px;
+	font-size: 35px;
 	text-align: center;
 	height: 8%;
 	padding-top: 2%;
 	padding-bottom: 2%;
-	border-radius:15px 15px 0 0;
+	border-radius: 15px 15px 0 0;
 }
-.blokpodbanerem{
+.blokpodbanerem {
 	height: 20%;
-	border-bottom: #66CC99 solid 1px;
-	border-left: #66CC99 solid 1px;
-	border-right: #66CC99 solid 1px;
+	border-bottom: #66cc99 solid 1px;
+	border-left: #66cc99 solid 1px;
+	border-right: #66cc99 solid 1px;
 }
-.lewy{
+.lewy {
 	background-color: #818181;
 	width: 48%;
 	height: 55vh;
@@ -31,8 +31,8 @@ header{
 	border-radius: 15px;
 	float: left;
 }
- 
-.prawy{
+
+.prawy {
 	background-color: #818181;
 	width: 48%;
 	height: 55vh;
@@ -42,32 +42,32 @@ header{
 	line-height: 1.8em;
 	float: left;
 }
- 
-p{
+
+p {
 	text-align: justify;
 	padding-left: 20px;
 	padding-right: 20px;
 	line-height: 1.8em;
 	font-size: 17px;
 }
- 
-h3{
+
+h3 {
 	text-indent: 4%;
-	color: #66CC99;
+	color: #66cc99;
 }
- 
-img{
+
+img {
 	height: 150px;
 	width: 200px;
 	border-radius: 15px;
 }
- 
-table{
+
+table {
 	height: 100%;
 	width: 100%;
 	text-align: center;
 }
- 
-ul{
+
+ul {
 	font-size: 17px;
 }
